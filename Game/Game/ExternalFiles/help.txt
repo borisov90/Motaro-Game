@@ -1,0 +1,33 @@
+		    _   _  _____ _     ______ 
+		   | | | ||  ___| |    | ___ \
+		   | |_| || |__ | |    | |_/ /
+		   |  _  ||  __|| |    |  __/ 
+		   | | | || |___| |____| |    
+		   \_| |_/\____/\_____/\_|    
+                           
+						   
+						   
+						   
+
+			 
+	Use arrows <- and -> to navigate the tank.
+	
+	Press SPACE key to shoot.
+	
+	
+	----------------------------------------------------
+	
+	
+	GAMEPLAY
+	
+	Avoid the bombs, shoot the airplanes and gain points.
+
+        You can fire missles at certain intervals of time.
+
+	If you hit the airplane in the center you get less points.
+
+        If you are hit in the center you loose less points also.
+	
+
+
+	PRESS ESCAPE TO RETURN TO GAME MENU
